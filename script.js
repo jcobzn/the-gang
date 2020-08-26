@@ -1,6 +1,3 @@
-console.log('hey htere')
-
-
 function showPopup () {
     var popup = document.getElementById('popup');
     popup.classList.add('show')
